@@ -1,5 +1,5 @@
-cat
-dog
-hen
-goat
 ant
+goat
+hen
+dog
+cat
