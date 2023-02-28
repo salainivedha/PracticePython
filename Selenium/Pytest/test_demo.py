@@ -12,6 +12,7 @@
 
 def test_firstProgram():
     print("hello")
+    print("Good morning")
 
 
 
