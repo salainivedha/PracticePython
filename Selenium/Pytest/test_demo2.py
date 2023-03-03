@@ -10,12 +10,15 @@ import pytest
 
 
 @pytest.mark.smoke
-def test_firstProgram(setup):
-    print("hello")
+@pytest.mark.skip
+def test_firstProgram():
+    msg = "hello"
+    assert msg == 'Hi', "Test failed because condition does not match"
 
-@pytest.mark.xfail
-def test_SecondGreet():
-    print("good morning")
+def test_SecondProgram():
+    a = 4
+    b = 6
+    assert a+2 == 6, "Addition does not match"
 
 
 

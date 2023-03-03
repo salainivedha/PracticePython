@@ -1,0 +1,11 @@
+2023-03-02 16:47:58,688: INFO: Information messages
+2023-03-02 16:47:58,688: WARNING: Something is in warning mode
+2023-03-02 16:47:58,688: ERROR: A major error has occurred
+2023-03-02 16:47:58,688: CRITICAL: Critical issue
+2023-03-02 16:49:37,081: DEBUG: A debug statement is executed
+2023-03-02 16:49:37,081: INFO: Information messages
+2023-03-02 16:49:37,081: WARNING: Something is in warning mode
+2023-03-02 16:49:37,081: ERROR: A major error has occurred
+2023-03-02 16:49:37,081: CRITICAL: Critical issue
+2023-03-02 19:05:46,941: INFO: Salai
+2023-03-02 19:05:46,941: INFO: Nivedha
