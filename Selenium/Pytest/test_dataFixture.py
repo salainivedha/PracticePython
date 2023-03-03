@@ -10,4 +10,4 @@ class TestExample(BaseClass):
         log=self.getlogger()
         log.info(dataHand[0])
         log.info(dataHand[1])
-        print(dataHand)
+        print(dataHand[2])
